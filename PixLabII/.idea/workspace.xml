@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8cb5d58b-8ffa-4673-8841-090333701884" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PixLabII" />
+  </component>
+  <component name="ProjectId" id="1TZIRdSdY9LNjNIZBf9HGzdJ8MV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/src/pixLab" />
+      <recent name="$PROJECT_DIR$/out/production/PixLabII/pixLab" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="pixLab.Picture" />
+      <module name="PixLabII" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cb5d58b-8ffa-4673-8841-090333701884" name="Default Changelist" comment="" />
+      <created>1573661183345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573661183345</updated>
+      <workItem from="1573661184620" duration="7763000" />
+      <workItem from="1573714274187" duration="684000" />
+      <workItem from="1573724510097" duration="1274000" />
+      <workItem from="1573974046923" duration="303000" />
+      <workItem from="1574011930647" duration="24000" />
+      <workItem from="1574063284576" duration="73000" />
+      <workItem from="1574146982347" duration="271000" />
+      <workItem from="1574190735027" duration="23000" />
+      <workItem from="1574272222391" duration="3853000" />
+      <workItem from="1574319330061" duration="410000" />
+      <workItem from="1574319764434" duration="1682000" />
+      <workItem from="1574321940220" duration="31000" />
+      <workItem from="1574838301678" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
